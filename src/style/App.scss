@@ -1,0 +1,13 @@
+@use 'bootstrap/dist/css/bootstrap.css';
+@use './partials/general';
+@use './partials/reset';
+@use './partials/common';
+@use './partials/layout';
+@use './partials/utility';
+@use './partials/variabiles';
+@use './components/Header.scss';
+@use './components/Main.scss';
+@use './components/Footer.scss';
+@use './components/Hero.scss';
+@use './components/Navbar.scss';
+@use './components/Card.scss';
